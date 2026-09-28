@@ -1,0 +1,833 @@
+{
+  "title": "The history of Ayurveda",
+  "tagline": "About 3,000 years from healing hymns and palm-leaf texts to a ministry, a WHO centre and fair trials.",
+  "intro": "Ayurveda grew out of healing hymns, wandering physicians and Buddhist monasteries, and was written down in great Sanskrit compilations about 2,000 years ago. Physicians copied, argued over and added to those texts for centuries, and carried them to Baghdad, Central Asia and Europe. Colonial rule pushed it to the margins; Indian vaidyas, colleges and later the government revived it. In the 20th century one of its plants gave the world a blood-pressure drug, and scientists began asking the same question of the rest: what works, and is it safe?",
+  "eras": [
+    {
+      "id": "vedic",
+      "name": "Hymns and wandering healers",
+      "from": -1500,
+      "to": -200,
+      "color": "#c49bff",
+      "summary": "Healing hymns in the Atharvaveda, and physicians around the early Buddhist monasteries. Dates are uncertain and debated."
+    },
+    {
+      "id": "classical",
+      "name": "The great compilations",
+      "from": -200,
+      "to": 700,
+      "color": "#ffd166",
+      "summary": "The Charaka and Sushruta Samhitas grow in layers, Vagbhata sums them up, and monastery universities teach medicine."
+    },
+    {
+      "id": "spread",
+      "name": "Commentaries, recipes and travels",
+      "from": 700,
+      "to": 1800,
+      "color": "#8ef0ff",
+      "summary": "Translations in Baghdad, new texts on diagnosis, pulse and pharmacy, and Kerala physicians behind a famous European botany book."
+    },
+    {
+      "id": "colonial",
+      "name": "Decline and revival",
+      "from": 1800,
+      "to": 1947,
+      "color": "#ff8a8a",
+      "summary": "Colonial rule favours Western medicine; vaidyas found pharmacies and colleges; a Kolkata kaviraj studies sarpagandha."
+    },
+    {
+      "id": "modern",
+      "name": "A national system, put to the test",
+      "from": 1947,
+      "to": 2026,
+      "color": "#6ee7a8",
+      "summary": "Reserpine, laws and regulators, the Ministry of AYUSH, safety studies, and a WHO centre in Jamnagar."
+    }
+  ],
+  "events": [
+    {
+      "year": -1100,
+      "date": "c. 1200–900 BCE (dates debated)",
+      "era": "vedic",
+      "art": "scroll",
+      "key": true,
+      "title": "Healing hymns of the Atharvaveda",
+      "who": "Vedic poets",
+      "where": "North-west India",
+      "country": "India",
+      "text": "The Atharvaveda holds charms and hymns against fever, cough, wounds and snakebite, and names healing plants. Ayurveda calls itself an upaveda, an offshoot, of the Vedas. Its dates are uncertain, and historians see Ayurveda’s later, systematic ideas as coming from many sources.",
+      "why": "It is the oldest Indian text with a large body of healing lore.",
+      "box": "roots",
+      "sources": [
+        0,
+        4,
+        1
+      ]
+    },
+    {
+      "year": -450,
+      "date": "c. 5th century BCE (from later Buddhist texts)",
+      "era": "vedic",
+      "art": "person",
+      "title": "Jivaka, physician to the Buddha",
+      "who": "Jīvaka Komārabhacca",
+      "where": "Takshashila and Rajagriha",
+      "country": "India",
+      "text": "Buddhist texts tell of Jivaka, who studied medicine for seven years at Takshashila and became physician to the Buddha and King Bimbisara. The stories were written down centuries later, so they are legend as much as history.",
+      "why": "They show that physicians trained with teachers and cared for monks in the Buddha’s time.",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": -257,
+      "date": "c. 257 BCE",
+      "era": "vedic",
+      "art": "leaf",
+      "title": "Ashoka plants medicinal herbs",
+      "who": "Emperor Ashoka",
+      "where": "Across the Mauryan empire",
+      "country": "India",
+      "text": "Ashoka’s second rock edict says he arranged medical care for people and for animals, and had medicinal herbs, roots and fruit planted and brought in where they did not grow.",
+      "why": "It is one of the earliest records of a state providing medical care.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": -100,
+      "date": "compiled c. 100 BCE–200 CE; revised by Dridhabala c. 5th–6th century CE",
+      "era": "classical",
+      "art": "scroll",
+      "key": true,
+      "title": "The Charaka Samhita",
+      "who": "Attributed to Charaka, after Agnivesha; completed by Dridhabala",
+      "where": "North-west India",
+      "country": "India",
+      "text": "The great text of internal medicine: 120 chapters on the three doshas, diet, diagnosis, medicines and the qualities of a good physician. It was compiled in layers, and the version we read today includes a later revision.",
+      "why": "It set out the ideas that Ayurveda still teaches, from tridosha to prakriti.",
+      "box": "doshas",
+      "sources": [
+        2,
+        0
+      ]
+    },
+    {
+      "year": 0,
+      "date": "layers from the last centuries BCE, completed c. 300–500 CE",
+      "era": "classical",
+      "art": "person",
+      "key": true,
+      "title": "The Sushruta Samhita and early surgery",
+      "who": "Attributed to Sushruta",
+      "where": "Varanasi (by tradition)",
+      "country": "India",
+      "text": "A surgical text of 186 chapters. It describes over a hundred instruments, has students practise cuts on gourds and dead animals, and gives the first written account of rebuilding a nose with a flap of skin from the cheek.",
+      "why": "Its rhinoplasty method is still recognised in the history of plastic surgery.",
+      "box": "roots",
+      "sources": [
+        3,
+        0
+      ]
+    },
+    {
+      "year": 427,
+      "date": "c. 5th century CE onwards",
+      "era": "classical",
+      "art": "building",
+      "title": "Monastery universities teach medicine",
+      "who": "Nalanda mahavihara",
+      "where": "Nalanda, Bihar",
+      "country": "India",
+      "text": "Nalanda grew into a great Buddhist centre of learning from about the 5th century. Visiting Chinese monks, among them Yijing in the 7th century, wrote about the medicine they saw practised in India; medicine was one of the subjects studied, though the details are uncertain.",
+      "why": "Monasteries helped carry Indian medicine along the Silk Road to Central Asia, Tibet and China.",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 500,
+      "date": "late 5th–early 6th century CE; found 1890",
+      "era": "classical",
+      "art": "scroll",
+      "title": "The Bower Manuscript",
+      "who": "Found by Lt Hamilton Bower; read by Rudolf Hoernle",
+      "where": "Kucha, Xinjiang",
+      "country": "China",
+      "text": "Birch-bark pages buried in a Buddhist stupa on the Silk Road hold Sanskrit medical texts, including a manual called the Navanitaka and a treatise on garlic. Hoernle, working in Calcutta, deciphered them between 1893 and 1912.",
+      "why": "It is among the oldest surviving physical manuscripts of Indian medicine.",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 600,
+      "date": "c. 7th century CE",
+      "era": "classical",
+      "art": "scroll",
+      "key": true,
+      "title": "Vagbhata’s Ashtanga Hridaya",
+      "who": "Vagbhata",
+      "where": "Sindh (by tradition)",
+      "country": "India",
+      "text": "Vagbhata combined the teachings of Charaka and Sushruta into one clear text in verse, organised around the eight branches. It became the main textbook in Kerala and was translated into Tibetan.",
+      "why": "It is still one of the most studied Ayurvedic texts today.",
+      "box": "roots",
+      "sources": [
+        10,
+        0
+      ]
+    },
+    {
+      "year": 700,
+      "date": "c. 7th–8th century CE",
+      "era": "spread",
+      "art": "eye",
+      "title": "A book of diagnosis",
+      "who": "Madhavakara",
+      "where": "India",
+      "country": "India",
+      "text": "The Madhava Nidana gathered the signs and causes of diseases, chapter by chapter, into one book on diagnosis (nidana). Later physicians used it as the standard reference.",
+      "why": "It made diagnosis a subject of its own in Ayurveda.",
+      "sources": [
+        11,
+        0
+      ]
+    },
+    {
+      "year": 780,
+      "date": "8th century CE",
+      "era": "spread",
+      "art": "word",
+      "title": "Charaka and Sushruta in Arabic",
+      "who": "Translators under the Barmakid family",
+      "where": "Baghdad",
+      "country": "Iraq",
+      "text": "At the Abbasid court, the Sushruta Samhita was translated into Arabic as the Kitab Shah Shun al-Hindi, and Charaka’s text was translated too. Indian physicians worked in Baghdad’s hospitals.",
+      "why": "Indian medicine fed into the Greek-Arabic tradition that became Unani medicine (see UnaniClear).",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 1300,
+      "date": "c. 13th–14th century",
+      "era": "spread",
+      "art": "heart",
+      "title": "The pulse enters the texts",
+      "who": "Sharangadhara",
+      "where": "India",
+      "country": "India",
+      "text": "The Sharangadhara Samhita standardised recipes for powders, decoctions and pills, and gave the earliest clear account of nadi pariksha, reading the pulse. Charaka and Sushruta do not describe pulse diagnosis as a method.",
+      "why": "Pulse reading, now seen as typical of Ayurveda, is a later addition.",
+      "box": "vaidya",
+      "sources": [
+        39,
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1550,
+      "date": "16th century",
+      "era": "spread",
+      "art": "leaf",
+      "title": "New plants and a new disease",
+      "who": "Bhavamishra",
+      "where": "Varanasi (by tradition)",
+      "country": "India",
+      "text": "The Bhavaprakasha added plants that had recently arrived in India and described phiranga roga, the “Frankish disease” (syphilis), brought by European sailors.",
+      "why": "It shows Ayurveda changing to meet new plants and new diseases.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1678,
+      "date": "1678–1693 (12 volumes)",
+      "era": "spread",
+      "art": "leaf",
+      "key": true,
+      "title": "Kerala physicians behind Hortus Malabaricus",
+      "who": "Itty Achuden, with Hendrik van Rheede",
+      "where": "Kochi, printed in Amsterdam",
+      "country": "India",
+      "text": "The Ezhava physician Itty Achuden dictated in Malayalam what his family’s palm-leaf manuscripts said about the plants of Malabar, checked by the Konkani physicians Ranga Bhat, Vinayaka Pandit and Appu Bhat. The Dutch governor van Rheede had it published with 794 copper engravings.",
+      "why": "Indian healers’ plant knowledge became a founding book of tropical botany.",
+      "box": "plants",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1835,
+      "date": "28 January 1835",
+      "era": "colonial",
+      "art": "building",
+      "key": true,
+      "title": "Colonial rule closes the Ayurveda classes",
+      "who": "Government of Bengal (Bentinck)",
+      "where": "Calcutta (Kolkata)",
+      "country": "India",
+      "text": "The Native Medical Institution (1822) had taught Ayurveda at the Sanskrit College and Unani at the Madrasa alongside Western medicine. A government order ended these classes, and the new Medical College taught only Western medicine.",
+      "why": "For the next century Ayurveda survived outside official support, in families, pathshalas and pharmacies.",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "colonial",
+      "art": "flask",
+      "title": "Revival: the Arya Vaidya Sala",
+      "who": "Vaidyaratnam P. S. Varier",
+      "where": "Kottakkal, Kerala",
+      "country": "India",
+      "text": "P. S. Varier opened a small clinic and pharmacy that grew into one of India’s largest Ayurvedic hospitals and medicine makers. Across India, vaidyas founded colleges and associations to revive the system.",
+      "why": "Standard, factory-made medicines and colleges shaped modern Ayurveda.",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "1931",
+      "era": "colonial",
+      "art": "leaf",
+      "title": "A kaviraj studies sarpagandha",
+      "who": "Gananath Sen and Kartick Chandra Bose",
+      "where": "Kolkata",
+      "country": "India",
+      "text": "The Ayurvedic physician Gananath Sen and the doctor Kartick Chandra Bose reported that powdered Rauvolfia serpentina root calmed disturbed patients and lowered blood pressure. The same year the chemist Salimuzzaman Siddiqui isolated its first alkaloids.",
+      "why": "It started the path from a traditional herb to a modern drug.",
+      "box": "plants",
+      "sources": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "1949",
+      "era": "modern",
+      "art": "heart",
+      "key": true,
+      "title": "Vakil’s trial in Mumbai",
+      "who": "Rustom Jal Vakil",
+      "where": "Mumbai",
+      "country": "India",
+      "text": "The cardiologist R. J. Vakil published a study of 50 patients with high blood pressure given Rauwolfia tablets for four weeks in the British Heart Journal. Most had a clear fall in blood pressure.",
+      "why": "Often called the first clinical trial from India, it caught the world’s attention.",
+      "box": "plants",
+      "sources": [
+        21,
+        19
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "1952",
+      "era": "modern",
+      "art": "molecule",
+      "key": true,
+      "title": "Reserpine is isolated",
+      "who": "Johannes Müller, Emil Schlittler and Hugo Bein, Ciba",
+      "where": "Basel",
+      "country": "Switzerland",
+      "text": "Chemists isolated the pure alkaloid reserpine from the root. It became one of the first modern drugs for high blood pressure and for severe mental illness. Its side effects, including depression, later made it rare.",
+      "why": "Reserpine research helped Arvid Carlsson show dopamine’s role in the brain, work that won the 2000 Nobel Prize.",
+      "box": "plants",
+      "sources": [
+        22,
+        19,
+        23
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970 (council set up 1971)",
+      "era": "modern",
+      "art": "scales",
+      "key": true,
+      "title": "The Indian Medicine Central Council Act",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Act created the Central Council of Indian Medicine to set standards for Ayurveda, Siddha and Unani education and to keep a central register of qualified practitioners.",
+      "why": "It made BAMS a regulated degree with national standards.",
+      "box": "roots",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "1978 (from a joint council of 1969)",
+      "era": "modern",
+      "art": "flask",
+      "title": "A research council for Ayurveda",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Central Council for Research in Indian Medicine and Homoeopathy (1969) split into separate councils. The Ayurveda one became today’s CCRAS, which runs clinical studies, drug standards and plant surveys.",
+      "why": "It gave Ayurveda a national research body.",
+      "box": "evidence",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "March 1995; renamed AYUSH in November 2003",
+      "era": "modern",
+      "art": "building",
+      "title": "A government department, then AYUSH",
+      "who": "Ministry of Health and Family Welfare",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India created a Department of Indian Systems of Medicine and Homoeopathy in 1995. In 2003 it was renamed AYUSH, for Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy.",
+      "why": "Traditional systems got a dedicated place in national health policy.",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "15 December 2004 and 27 August 2008",
+      "era": "modern",
+      "art": "flask",
+      "title": "Heavy metals found in some products",
+      "who": "Robert Saper and colleagues",
+      "where": "Boston",
+      "country": "United States",
+      "text": "Tests found potentially harmful lead, mercury or arsenic in 14 of 70 Ayurvedic products from Boston shops. A 2008 study of 193 products sold online found metals in about 1 in 5, and in about 4 in 10 metal-based rasa shastra products.",
+      "why": "It made product safety a global concern.",
+      "box": "evidence",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "October 2005 (from 1 January 2006)",
+      "era": "modern",
+      "art": "molecule",
+      "title": "Heavy-metal tests for exports",
+      "who": "Department of AYUSH",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India ordered that every batch of Ayurvedic, Siddha and Unani medicine made for export be tested for heavy metals, with results within set limits.",
+      "why": "It was one of the first safety rules aimed at metal contamination.",
+      "box": "evidence",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "9 November 2014",
+      "era": "modern",
+      "art": "building",
+      "key": true,
+      "title": "The Ministry of AYUSH",
+      "who": "Government of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The AYUSH department became a full ministry, with research councils for Ayurveda (CCRAS), Unani, Siddha, Homoeopathy and Yoga and Naturopathy.",
+      "why": "Ayurveda gained a full ministry, a rare status for a traditional system.",
+      "box": "roots",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "28 October 2016",
+      "era": "modern",
+      "art": "flame",
+      "title": "The first National Ayurveda Day",
+      "who": "Ministry of AYUSH",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "Ayurveda Day is held on Dhanvantari Jayanti. The first one focused on diabetes, and in 2017 the All India Institute of Ayurveda in New Delhi was dedicated to the nation on the same day.",
+      "why": "It gave Ayurveda a yearly national spotlight and a flagship institute.",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "2017–18",
+      "era": "modern",
+      "art": "antibody",
+      "title": "Reporting side effects of AYUSH medicines",
+      "who": "Ministry of AYUSH, with AIIA as national centre",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "A national pharmacovigilance programme began collecting reports of side effects from AYUSH medicines and watching for misleading advertisements.",
+      "why": "Safety monitoring is how rare harms are found.",
+      "box": "evidence",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "20 September 2020 (in force 11 June 2021)",
+      "era": "modern",
+      "art": "scales",
+      "title": "NCISM replaces the old council",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The National Commission for Indian System of Medicine Act replaced the Central Council of Indian Medicine with a new regulator for education and practice, including a national exit test for new graduates.",
+      "why": "It modernised how Ayurvedic doctors are trained and registered.",
+      "box": "roots",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "25 March 2022 (agreement); 19 April 2022 (ground-breaking)",
+      "era": "modern",
+      "art": "earth",
+      "key": true,
+      "title": "A WHO centre in Jamnagar",
+      "who": "WHO and the Government of India",
+      "where": "Jamnagar, Gujarat",
+      "country": "India",
+      "text": "The World Health Organization and India agreed to set up the WHO Global Centre for Traditional Medicine, backed by US$250 million from India, to study traditional medicine from around the world with modern science.",
+      "why": "The first global WHO centre for traditional medicine puts evidence and safety at its heart.",
+      "sources": [
+        36,
+        37
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "13 June 2024 (survey July 2022–June 2023)",
+      "era": "modern",
+      "art": "person",
+      "title": "Half of India uses AYUSH",
+      "who": "National Statistical Office (NSS 79th round)",
+      "where": "India",
+      "country": "India",
+      "text": "The first all-India survey on AYUSH, of over 1.8 lakh households, found that about 46% of rural and 53% of urban people had used AYUSH to prevent or treat illness in the past year. Ayurveda was the most used.",
+      "why": "It shows how many Indian families rely on these systems, which is why fair tests and safety matter.",
+      "box": "wisely",
+      "sources": [
+        38
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First written account of a cheek-flap nose repair",
+      "value": "c. early 1st millennium CE",
+      "who": "Sushruta Samhita"
+    },
+    {
+      "label": "Oldest surviving physical Ayurvedic manuscript (among the oldest)",
+      "value": "late 5th–early 6th century CE",
+      "who": "Bower Manuscript, Kucha"
+    },
+    {
+      "label": "Earliest clear account of pulse diagnosis",
+      "value": "c. 13th–14th century",
+      "who": "Sharangadhara Samhita"
+    },
+    {
+      "label": "Often called the first clinical trial from India",
+      "value": "1949",
+      "who": "R. J. Vakil, Mumbai"
+    },
+    {
+      "label": "First ministry for traditional medicine in India",
+      "value": "9 November 2014",
+      "who": "Ministry of AYUSH"
+    },
+    {
+      "label": "First WHO global centre for traditional medicine",
+      "value": "2022",
+      "who": "Jamnagar, Gujarat"
+    }
+  ],
+  "people": [
+    {
+      "name": "Charaka",
+      "life": "dates unknown (c. 1st–2nd century CE?)",
+      "role": "Physician, compiler",
+      "from": "North-west India",
+      "note": "The name attached to Ayurveda’s great text of internal medicine."
+    },
+    {
+      "name": "Sushruta",
+      "life": "dates unknown",
+      "role": "Surgeon (by tradition)",
+      "from": "Varanasi (by tradition)",
+      "note": "The name attached to the classical surgery text."
+    },
+    {
+      "name": "Vagbhata",
+      "life": "c. 7th century CE",
+      "role": "Physician and author",
+      "from": "Sindh (by tradition)",
+      "note": "Wrote the Ashtanga Hridaya, still a core textbook."
+    },
+    {
+      "name": "Itty Achuden",
+      "life": "17th century",
+      "role": "Ezhava physician",
+      "from": "Kerala",
+      "note": "His family’s plant knowledge became Hortus Malabaricus."
+    },
+    {
+      "name": "P. S. Varier",
+      "life": "1869 – 1944",
+      "role": "Vaidya and founder",
+      "from": "Kottakkal, Kerala",
+      "note": "Founded the Arya Vaidya Sala in 1902."
+    },
+    {
+      "name": "Gananath Sen",
+      "life": "1877 – c. 1945",
+      "role": "Kaviraj (Ayurvedic physician)",
+      "from": "Kolkata",
+      "note": "Studied sarpagandha for blood pressure and madness with K. C. Bose."
+    },
+    {
+      "name": "Salimuzzaman Siddiqui",
+      "life": "1897 – 1994",
+      "role": "Chemist",
+      "from": "Delhi, later Karachi",
+      "note": "Isolated the first Rauvolfia alkaloids in 1931."
+    },
+    {
+      "name": "Rustom Jal Vakil",
+      "life": "1911 – 1974",
+      "role": "Cardiologist",
+      "from": "Mumbai",
+      "note": "His 1949 trial made the world notice Rauwolfia."
+    }
+  ],
+  "facts": [
+    "Ayurveda means “knowledge of life”, from ayus (life) and veda (knowledge).",
+    "The Sushruta Samhita has surgery students practise on gourds, melons and dead animals before touching a patient.",
+    "Pulse reading, now seen as typical of Ayurveda, first appears clearly around the 13th century, over a thousand years after Charaka.",
+    "Reserpine from sarpagandha helped reveal how dopamine works in the brain, research that won the 2000 Nobel Prize.",
+    "In a 2022–23 national survey, about half of Indians said they had used an AYUSH system in the past year."
+  ],
+  "sources": [
+    {
+      "title": "Ayurveda",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/science/Ayurveda"
+    },
+    {
+      "title": "Ayurveda",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ayurveda"
+    },
+    {
+      "title": "Charaka Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charaka_Samhita"
+    },
+    {
+      "title": "Sushruta Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+    },
+    {
+      "title": "Atharvaveda",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atharvaveda"
+    },
+    {
+      "title": "Jīvaka",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J%C4%ABvaka"
+    },
+    {
+      "title": "Taxila",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taxila"
+    },
+    {
+      "title": "Major Rock Edicts of Ashoka",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Major_Rock_Edicts"
+    },
+    {
+      "title": "Nalanda mahavihara",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nalanda_mahavihara"
+    },
+    {
+      "title": "Bower Manuscript",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bower_Manuscript"
+    },
+    {
+      "title": "Vagbhata",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vagbhata"
+    },
+    {
+      "title": "Madhava Nidana",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Madhava_Nidana"
+    },
+    {
+      "title": "Reliability studies of diagnostic methods in Indian traditional Ayurveda medicine: an overview (Kurande et al., 2013)",
+      "publisher": "Journal of Ayurveda and Integrative Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23930037/"
+    },
+    {
+      "title": "Interrater reliability of diagnostic methods in traditional Indian Ayurvedic medicine (Kurande et al., 2013)",
+      "publisher": "Evidence-Based Complementary and Alternative Medicine",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3803118/"
+    },
+    {
+      "title": "Hortus Malabaricus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hortus_Malabaricus"
+    },
+    {
+      "title": "Calcutta Medical College",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php/Calcutta_Medical_College"
+    },
+    {
+      "title": "Medical College and Hospital, Kolkata",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Medical_College_and_Hospital,_Kolkata"
+    },
+    {
+      "title": "Arya Vaidya Sala",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arya_Vaidya_Sala"
+    },
+    {
+      "title": "Gananath Sen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gananath_Sen"
+    },
+    {
+      "title": "Indian Rauwolfia research led to the evolution of neuropsychopharmacology & the 2000 Nobel Prize (Part I)",
+      "publisher": "Indian Journal of Medical Research (ICMR)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8715679/"
+    },
+    {
+      "title": "Global pharma and local science: the untold tale of reserpine",
+      "publisher": "Indian Journal of Psychiatry",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5836351/"
+    },
+    {
+      "title": "A clinical trial of Rauwolfia serpentina in essential hypertension (Vakil, 1949)",
+      "publisher": "British Heart Journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18140347/"
+    },
+    {
+      "title": "Reserpine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reserpine"
+    },
+    {
+      "title": "Arvid Carlsson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arvid_Carlsson"
+    },
+    {
+      "title": "The Indian Medicine Central Council Act, 1970",
+      "publisher": "India Code, Government of India",
+      "url": "https://www.indiacode.nic.in/handle/123456789/19303"
+    },
+    {
+      "title": "Central Council of Indian Medicine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Central_Council_of_Indian_Medicine"
+    },
+    {
+      "title": "Trajectory of CCRAS: from advisory body to apex research organisation",
+      "publisher": "Journal of Indian Medical Heritage",
+      "url": "https://journals.lww.com/jimh/fulltext/2024/01000/trajectory_of_ccras__from_advisory_body_to_apex.1.aspx"
+    },
+    {
+      "title": "Ministry of Ayush",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ministry_of_Ayush"
+    },
+    {
+      "title": "Heavy metal content of Ayurvedic herbal medicine products (Saper et al., 2004)",
+      "publisher": "JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15598918/"
+    },
+    {
+      "title": "Lead, mercury, and arsenic in US- and Indian-manufactured Ayurvedic medicines sold via the Internet (Saper et al., 2008)",
+      "publisher": "JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18728265/"
+    },
+    {
+      "title": "Exported Ayurveda products need testing for heavy metals",
+      "publisher": "Auriga Research",
+      "url": "https://aurigaresearch.com/herbal-testing/testing-lab-for-heavy-metals/"
+    },
+    {
+      "title": "Ayurveda Day",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ayurveda_Day"
+    },
+    {
+      "title": "All India Institute of Ayurveda",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/All_India_Institute_of_Ayurveda"
+    },
+    {
+      "title": "Ministry of AYUSH introduces new Central Sector scheme for promoting pharmacovigilance of AYUSH drugs",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1542977"
+    },
+    {
+      "title": "The National Commission for Indian System of Medicine Act, 2020",
+      "publisher": "India Code, Government of India",
+      "url": "https://www.indiacode.nic.in/handle/123456789/15622"
+    },
+    {
+      "title": "About NCISM",
+      "publisher": "National Commission for Indian System of Medicine",
+      "url": "https://ncismindia.org/introduction.php"
+    },
+    {
+      "title": "WHO establishes the Global Centre for Traditional Medicine in India",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/25-03-2022-who-establishes-the-global-centre-for-traditional-medicine-in-india"
+    },
+    {
+      "title": "WHO Director-General’s remarks at the ground-breaking ceremony, 19 April 2022",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-ground-breaking-ceremony-for-the-who-global-centre-for-traditional-medicine---19-april-2022"
+    },
+    {
+      "title": "Results of survey on Ayush (July 2022 to June 2023) released",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2025076&reg=48&lang=2"
+    },
+    {
+      "title": "Examination methods in Ayurveda: 1. Pulse diagnosis",
+      "publisher": "ayurvedamedizin.de",
+      "url": "https://www.ayurvedamedizin.de/en/examination-methods-in-ayurveda-1-pulse-diagnosis-2/"
+    }
+  ]
+}

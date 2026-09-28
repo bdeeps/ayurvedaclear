@@ -1,0 +1,126 @@
+{
+  "slug": "ayurvedaclear",
+  "box": 80,
+  "question": "How does Ayurveda work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/ayurvedaclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/ayurvedaclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "About 3,000 years from healing hymns and palm-leaf texts to a ministry, a WHO centre and fair trials.\n\n1100 BCE: Healing hymns of the Atharvaveda\n100 BCE: The Charaka Samhita\n0: The Sushruta Samhita and early surgery\n600: Vagbhata’s Ashtanga Hridaya\n1678: Kerala physicians behind Hortus Malabaricus\n1835: Colonial rule closes the Ayurveda classes\n\nThe full story, with 29 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/ayurvedaclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/ayurvedaclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #ayurveda #ayush #traditionalmedicine #doshas #reserpine #clinicaltrials #history",
+      "youtube": {
+        "title": "The history of Ayurveda in 45 seconds #shorts",
+        "description": "About 3,000 years from healing hymns and palm-leaf texts to a ministry, a WHO centre and fair trials.\n\n1100 BCE · Healing hymns of the Atharvaveda (Vedic poets)\n100 BCE · The Charaka Samhita (Attributed to Charaka, after Agnivesha; completed by Dridhabala)\n0 · The Sushruta Samhita and early surgery (Attributed to Sushruta)\n600 · Vagbhata’s Ashtanga Hridaya (Vagbhata)\n1678 · Kerala physicians behind Hortus Malabaricus (Itty Achuden, with Hendrik van Rheede)\n1835 · Colonial rule closes the Ayurveda classes (Government of Bengal (Bentinck))\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/ayurvedaclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/ayurvedaclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does Ayurveda work?\n\nHalf of India used an AYUSH system last year, and Ayurveda most of all. Build the five elements into vata, pitta and kapha, boil a kwatha down to a quarter, follow sarpagandha root into a blood-pressure pill, then run a fair trial and see how bias fools us.\n\n→ Ayurveda's great texts, the Charaka and Sushruta Samhitas, grew in layers about 2,000 years ago.\n→ Ayurveda says everything is made of five elements: space, air, fire, water and earth.\n→ In the body they act as three doshas: vata moves, pitta transforms, kapha holds together.\n→ A kwatha boils one part herb in 16 parts water down to a quarter: here 320 mL becomes 80 mL.\n→ In 1949 a Mumbai cardiologist found sarpagandha root lowered blood pressure in most of his 50 patients.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/ayurvedaclear (link in bio)\n\nBox No. 080 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #ayurveda #ayush #traditionalmedicine #doshas #reserpine #clinicaltrials #placebo #evidencebasedmedicine #india",
+    "carousel": "Swipe through: How does Ayurveda work?\n\nHalf of India used an AYUSH system last year, and Ayurveda most of all. Build the five elements into vata, pitta and kapha, boil a kwatha down to a quarter, follow sarpagandha root into a blood-pressure pill, then run a fair trial and see how bias fools us.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/ayurvedaclear (link in bio).\n\nBox No. 080 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #ayurveda #ayush #traditionalmedicine #doshas #reserpine #clinicaltrials",
+    "youtube": {
+      "title": "How does Ayurveda work? #shorts",
+      "description": "Half of India used an AYUSH system last year, and Ayurveda most of all. Build the five elements into vata, pitta and kapha, boil a kwatha down to a quarter, follow sarpagandha root into a blood-pressure pill, then run a fair trial and see how bias fools us.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/ayurvedaclear/\n⌘ Source code (MIT): https://github.com/bdeeps/ayurvedaclear\n\nBox No. 080 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does Ayurveda work? (interactive explainer)",
+      "description": "Half of India used an AYUSH system last year, and Ayurveda most of all. Build the five elements into vata, pitta and kapha, boil a kwatha down to a quarter, follow sarpagandha root into a blood-pressure pill, then run a fair trial and see how bias fools us.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/ayurvedaclear/\n⌘ Source code (MIT): https://github.com/bdeeps/ayurvedaclear\n\nIn this video:\n• Three old books and a living system. Ayurveda, \"knowledge of life\", was written down in the Charaka and Sushruta Samhitas and Vagbhata's Ashtanga Hridaya, texts that grew in layers roughly 2,000 years ago.\n• Five elements, three doshas. As Ayurveda describes it, space, air, fire, water and earth work in the body as three doshas: vata moves, pitta transforms, kapha holds together.\n• Pulse, pot and routine. A vaidya asks, looks and may read the pulse with three fingers, a method first written down around the 13th century.\n• From a snakeroot to a blood-pressure pill. In 1931 the Kolkata kaviraj Gananath Sen reported that sarpagandha root lowered blood pressure; in 1949 R.\n• A fair test, and a safety check. Many people improve anyway, so fair trials randomise, blind and compare with a placebo.\n• Using it wisely. Regular sleep, fresh plant-rich food, not overeating and daily exercise match modern advice.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does Ayurveda work?\n\nHalf of India used an AYUSH system last year, and Ayurveda most of all.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/ayurvedaclear/",
+    "linkedin": "How does Ayurveda work?\n\nHalf of India used an AYUSH system last year, and Ayurveda most of all. Build the five elements into vata, pitta and kapha, boil a kwatha down to a quarter, follow sarpagandha root into a blood-pressure pill, then run a fair trial and see how bias fools us.\n\n1. Three old books and a living system\n2. Five elements, three doshas\n3. Pulse, pot and routine\n4. From a snakeroot to a blood-pressure pill\n5. A fair test, and a safety check\n6. Using it wisely\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 080 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/ayurvedaclear/\nCode: https://github.com/bdeeps/ayurvedaclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T07:57:07.558Z"
+}

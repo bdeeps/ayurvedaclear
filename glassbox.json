@@ -1,0 +1,108 @@
+{
+  "slug": "ayurvedaclear",
+  "box": 80,
+  "date": "2026-09-29",
+  "title": "AyurvedaClear",
+  "question": "How does Ayurveda work?",
+  "hook": "Half of India used an AYUSH system last year, and Ayurveda most of all. Build the five elements into vata, pitta and kapha, boil a kwatha down to a quarter, follow sarpagandha root into a blood-pressure pill, then run a fair trial and see how bias fools us.",
+  "thumbText": "HOW AYURVEDA WORKS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "ayurveda",
+    "ayush",
+    "traditional medicine",
+    "doshas",
+    "reserpine",
+    "clinical trials",
+    "placebo",
+    "evidence-based medicine",
+    "india",
+    "health",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Three old books and a living system",
+      "text": "Ayurveda, \"knowledge of life\", was written down in the Charaka and Sushruta Samhitas and Vagbhata's Ashtanga Hridaya, texts that grew in layers roughly 2,000 years ago. It has eight classical branches, and today a Ministry of AYUSH, a regulator (NCISM), a research council (CCRAS) and a 5½-year BAMS degree."
+    },
+    {
+      "title": "Five elements, three doshas",
+      "text": "As Ayurveda describes it, space, air, fire, water and earth work in the body as three doshas: vata moves, pitta transforms, kapha holds together. Each person's inborn mix is their prakriti; digestive fire (agni) feeds seven tissues in turn, and weak agni leaves sticky ama. These are the system's own concepts, not anatomy."
+    },
+    {
+      "title": "Pulse, pot and routine",
+      "text": "A vaidya asks, looks and may read the pulse with three fingers, a method first written down around the 13th century. Treatment starts with diet and daily and seasonal routine, then herbal medicines such as triphala or a kwatha: one part herb boiled in 16 parts water down to a quarter. Panchakarma is a supervised cleansing course."
+    },
+    {
+      "title": "From a snakeroot to a blood-pressure pill",
+      "text": "In 1931 the Kolkata kaviraj Gananath Sen reported that sarpagandha root lowered blood pressure; in 1949 R. J. Vakil tested it in Mumbai; in 1952 pure reserpine was isolated and became a drug. Pure compounds give exact doses, while root reserpine varies about fourfold. Curcumin and ashwagandha evidence is mixed or emerging."
+    },
+    {
+      "title": "A fair test, and a safety check",
+      "text": "Many people improve anyway, so fair trials randomise, blind and compare with a placebo. Reviews find most Ayurveda trials small or weak, with a few encouraging ones. US tests found lead, mercury or arsenic in about 1 in 5 products, and 4 in 10 metal-based ones; India licenses products and tests exports for metals."
+    },
+    {
+      "title": "Using it wisely",
+      "text": "Regular sleep, fresh plant-rich food, not overeating and daily exercise match modern advice. Never stop a prescribed medicine, tell every doctor what you take, and see a qualified doctor for serious illness. Supporters and critics of integrative medicine agree that fair tests should decide what works."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Ayurveda",
+      "def": "India's classical system of medicine, \"knowledge of life\", set out in Sanskrit texts."
+    },
+    {
+      "term": "Dosha",
+      "def": "One of three functional principles, vata, pitta and kapha, whose balance Ayurveda equates with health."
+    },
+    {
+      "term": "Prakriti",
+      "def": "A person's inborn constitution: their own mix of the three doshas."
+    },
+    {
+      "term": "Agni",
+      "def": "The \"digestive fire\" that, in Ayurveda, turns food into nourishment for the tissues."
+    },
+    {
+      "term": "Kwatha",
+      "def": "A decoction: herbs boiled in water and reduced, usually to a quarter."
+    },
+    {
+      "term": "Rasa shastra",
+      "def": "Ayurvedic pharmacy that processes metals and minerals into medicines."
+    },
+    {
+      "term": "Reserpine",
+      "def": "A blood-pressure drug isolated in 1952 from the Ayurvedic plant sarpagandha."
+    },
+    {
+      "term": "Placebo",
+      "def": "A dummy treatment used in fair trials to show what the real treatment adds."
+    },
+    {
+      "term": "Randomised blinded trial",
+      "def": "A test where chance decides who gets what and nobody knows, so bias can't creep in."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "ayurvedaclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ],
+  "thumbScene": 1
+}
